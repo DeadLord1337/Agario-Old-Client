@@ -1,0 +1,10 @@
+{
+    "name": "agar.io",
+    "main": "app.js",
+    "dependencies": {
+        "express": "~4.0.0",
+        "body-parser": "1.12.4",
+        "request": "2.57.0",
+        "ws": "1.1.0"
+    }
+}
